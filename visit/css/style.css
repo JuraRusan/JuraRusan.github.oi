@@ -1,0 +1,44 @@
+body {
+    background-image: url("../img/backgraund_3840x2160.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+
+.name_transform {
+    text-align: center;
+}
+
+.transform_h1 {
+    margin-top: 25%;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 170px;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+    text-transform: none;
+    margin-bottom: 100px;
+}
+
+.button-press {
+    background: none;
+    border: none;
+    width: 64px;
+    height: 64px;
+}
+
+.img-colors {
+    filter: invert(100%);
+}
+
+.Button {
+    margin: 25px;
+    display: inline-block;
+}
+
+.Buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
