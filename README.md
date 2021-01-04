@@ -1,2 +1,2 @@
-# JuraRusan.github.oi
+# JuraRusan
 Первый опубликованный сайт
